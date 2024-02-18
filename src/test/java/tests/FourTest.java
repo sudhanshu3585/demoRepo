@@ -15,8 +15,8 @@ public class FourTest extends Base {
 	public void testFour() throws Throwable{
 		System.out.println("Inside Test 4");
 		System.out.println("changes to git by user 2");
-		System.out.println("changes to git by user 2 line 2");
-		
+		System.out.println("changes to git by user 3 line 1");
+		System.out.println("changes to git by user 3 line 2");
 		
 		cdriver = initializeDriver();
 		cdriver.get("https://tutorialsninja.com/demo/");
