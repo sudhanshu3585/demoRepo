@@ -1,7 +1,5 @@
 package tests;
 
-import java.io.IOException;
-
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -17,6 +15,8 @@ public class FourTest extends Base {
 		System.out.println("changes to git by user 2");
 		System.out.println("changes to git by user 3 line 1");
 		System.out.println("changes to git by user 3 line 2");
+		System.out.println("changes to git by user 2 on karans branch");
+		System.out.println("changes to git by user 2 on karans branch2");
 		
 		cdriver = initializeDriver();
 		cdriver.get("https://tutorialsninja.com/demo/");
