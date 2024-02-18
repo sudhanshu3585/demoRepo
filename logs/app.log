@@ -1,0 +1,36 @@
+[DEBUG] 2024-02-15 00:02:08.767 [TestNG-tests-1] LoginTest - Application launched
+[DEBUG] 2024-02-15 00:02:09.739 [TestNG-tests-1] LoginTest - Email has entered
+[DEBUG] 2024-02-15 00:02:09.818 [TestNG-tests-1] LoginTest - Password has entered
+[DEBUG] 2024-02-15 00:02:10.423 [TestNG-tests-1] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-15 00:02:10.699 [TestNG-tests-1] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-15 00:02:11.700 [TestNG-tests-1] LoginTest - Application closed
+[DEBUG] 2024-02-15 00:04:11.933 [TestNG-tests-1] LoginTest - Application launched
+[DEBUG] 2024-02-15 00:04:12.591 [TestNG-tests-1] LoginTest - Email has entered
+[DEBUG] 2024-02-15 00:04:12.664 [TestNG-tests-1] LoginTest - Password has entered
+[DEBUG] 2024-02-15 00:04:13.320 [TestNG-tests-1] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-15 00:04:13.362 [TestNG-tests-1] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-15 00:04:13.473 [TestNG-tests-1] LoginTest - Application closed
+[DEBUG] 2024-02-15 00:07:30.435 [TestNG-tests-1] LoginTest - Application launched
+[DEBUG] 2024-02-15 00:07:31.197 [TestNG-tests-1] LoginTest - Email has entered
+[DEBUG] 2024-02-15 00:07:31.276 [TestNG-tests-1] LoginTest - Password has entered
+[DEBUG] 2024-02-15 00:07:31.708 [TestNG-tests-1] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-15 00:07:31.760 [TestNG-tests-1] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-15 00:07:31.939 [TestNG-tests-1] LoginTest - Application closed
+[DEBUG] 2024-02-15 00:09:44.065 [TestNG-tests-1] LoginTest - Application launched
+[DEBUG] 2024-02-15 00:09:44.652 [TestNG-tests-1] LoginTest - Email has entered
+[DEBUG] 2024-02-15 00:09:44.760 [TestNG-tests-1] LoginTest - Password has entered
+[DEBUG] 2024-02-15 00:09:45.292 [TestNG-tests-1] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-15 00:09:45.389 [TestNG-tests-1] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-15 00:09:45.511 [TestNG-tests-1] LoginTest - Application closed
+[DEBUG] 2024-02-15 23:40:35.152 [TestNG-tests-1] LoginTest - Application launched
+[DEBUG] 2024-02-15 23:40:37.239 [TestNG-tests-1] LoginTest - Email has entered
+[DEBUG] 2024-02-15 23:40:37.363 [TestNG-tests-1] LoginTest - Password has entered
+[DEBUG] 2024-02-15 23:40:41.820 [TestNG-tests-1] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-15 23:40:42.008 [TestNG-tests-1] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-15 23:40:42.529 [TestNG-tests-1] LoginTest - Application closed
+[DEBUG] 2024-02-15 23:43:48.867 [TestNG-tests-1] LoginTest - Application launched
+[DEBUG] 2024-02-15 23:43:50.547 [TestNG-tests-1] LoginTest - Email has entered
+[DEBUG] 2024-02-15 23:43:50.644 [TestNG-tests-1] LoginTest - Password has entered
+[DEBUG] 2024-02-15 23:43:53.731 [TestNG-tests-1] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-15 23:43:53.859 [TestNG-tests-1] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-15 23:43:54.050 [TestNG-tests-1] LoginTest - Application closed

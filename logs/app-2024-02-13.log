@@ -1,0 +1,30 @@
+[DEBUG] 2024-02-13 23:32:05.326 [main] LoginTest - Application launched
+[DEBUG] 2024-02-13 23:32:06.250 [main] LoginTest - Email has entered
+[DEBUG] 2024-02-13 23:32:06.335 [main] LoginTest - Password has entered
+[DEBUG] 2024-02-13 23:32:06.805 [main] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-13 23:32:06.971 [main] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-13 23:32:07.348 [main] LoginTest - Application closed
+[DEBUG] 2024-02-13 23:32:15.560 [main] LoginTest - Application launched
+[DEBUG] 2024-02-13 23:32:16.444 [main] LoginTest - Email has entered
+[DEBUG] 2024-02-13 23:32:16.527 [main] LoginTest - Password has entered
+[DEBUG] 2024-02-13 23:32:16.964 [main] LoginTest - Loginbutton clicked
+[ERROR] 2024-02-13 23:32:27.061 [main] LoginTest - User login failed
+[DEBUG] 2024-02-13 23:32:27.331 [main] LoginTest - Application closed
+[DEBUG] 2024-02-13 23:43:36.982 [main] LoginTest - Application launched
+[DEBUG] 2024-02-13 23:43:37.752 [main] LoginTest - Email has entered
+[DEBUG] 2024-02-13 23:43:37.841 [main] LoginTest - Password has entered
+[DEBUG] 2024-02-13 23:43:38.419 [main] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-13 23:43:38.475 [main] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-13 23:43:38.633 [main] LoginTest - Application closed
+[DEBUG] 2024-02-13 23:46:44.077 [main] LoginTest - Application launched
+[DEBUG] 2024-02-13 23:46:52.189 [main] LoginTest - Email has entered
+[DEBUG] 2024-02-13 23:46:52.254 [main] LoginTest - Password has entered
+[DEBUG] 2024-02-13 23:46:52.932 [main] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-13 23:46:52.994 [main] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-13 23:46:53.151 [main] LoginTest - Application closed
+[DEBUG] 2024-02-13 23:49:49.899 [main] LoginTest - Application launched
+[DEBUG] 2024-02-13 23:49:50.642 [main] LoginTest - Email has entered
+[DEBUG] 2024-02-13 23:49:50.711 [main] LoginTest - Password has entered
+[DEBUG] 2024-02-13 23:49:51.258 [main] LoginTest - Loginbutton clicked
+[INFO ] 2024-02-13 23:49:51.314 [main] LoginTest - User has logged in successfully
+[DEBUG] 2024-02-13 23:49:51.656 [main] LoginTest - Application closed

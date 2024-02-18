@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel='tests'>
+
+	<listners>
+		<listner class-name="listners.Listners" />
+	</listners>
+
+	<test thread-count="5" name="FourTest">
+		<classes>
+			<class name="tests.FourTest" />
+			<class name="tests.TwoTest" />
+			<class name="tests.LoginTest" />
+			<class name="tests.ThreeTest" />
+
+		</classes>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T01:26:50 IST" name="Surefire suite" finished-at="2024-02-13T01:27:22 IST" duration-ms="31521">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T01:26:50 IST" name="Surefire test" finished-at="2024-02-13T01:27:22 IST" duration-ms="31521">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@4738a206]" started-at="2024-02-13T01:26:50 IST" name="openBrowser" finished-at="2024-02-13T01:27:00 IST" duration-ms="9941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@4738a206]" started-at="2024-02-13T01:27:00 IST" name="login" data-provider="getLoginData" finished-at="2024-02-13T01:27:02 IST" duration-ms="1902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc1cdkjein234@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Successfull]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="clouser()[pri:0, instance:tests.LoginTest@4738a206]" started-at="2024-02-13T01:27:02 IST" name="clouser" finished-at="2024-02-13T01:27:02 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clouser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.LoginTest@4738a206]" started-at="2024-02-13T01:27:02 IST" name="openBrowser" finished-at="2024-02-13T01:27:10 IST" duration-ms="7619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@4738a206]" started-at="2024-02-13T01:27:10 IST" name="login" data-provider="getLoginData" finished-at="2024-02-13T01:27:21 IST" duration-ms="11397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdjkn@gamil.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2185]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="clouser()[pri:0, instance:tests.LoginTest@4738a206]" started-at="2024-02-13T01:27:21 IST" name="clouser" finished-at="2024-02-13T01:27:22 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clouser -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.FourTest">
+        <test-method signature="testFour()[pri:0, instance:tests.FourTest@4229bb3f]" started-at="2024-02-13T01:26:50 IST" name="testFour" finished-at="2024-02-13T01:26:50 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+      </class> <!-- tests.FourTest -->
+      <class name="tests.ThreeTest">
+        <test-method signature="testThree()[pri:0, instance:tests.ThreeTest@2d710f1a]" started-at="2024-02-13T01:27:22 IST" name="testThree" finished-at="2024-02-13T01:27:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+      </class> <!-- tests.ThreeTest -->
+      <class name="tests.TwoTest">
+        <test-method signature="testTwo()[pri:0, instance:tests.TwoTest@29215f06]" started-at="2024-02-13T01:27:22 IST" name="testTwo" finished-at="2024-02-13T01:27:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- tests.TwoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
